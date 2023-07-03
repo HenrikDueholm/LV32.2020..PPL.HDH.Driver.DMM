@@ -1,1 +1,2 @@
-Action_LinkDependenciesIntoSelf target=asdf_test;exclusions=PPL.HDH.Data.Generic
+Action_CreateMainFolder PPL
+Action_LinkContentStructureToFolder target=PPL;exclusions=README.md;LICENSE
